@@ -1,0 +1,9 @@
+E:\DemoSpace\MVP\MVP\bin\Debug\MVP.exe.config
+E:\DemoSpace\MVP\MVP\bin\Debug\MVP.exe
+E:\DemoSpace\MVP\MVP\bin\Debug\MVP.pdb
+E:\DemoSpace\MVP\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+E:\DemoSpace\MVP\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+E:\DemoSpace\MVP\MVP\obj\Debug\MVP.exe
+E:\DemoSpace\MVP\MVP\obj\Debug\MVP.pdb
+E:\DemoSpace\MVP\MVP\obj\Debug\MVP.ProductView.resources
+E:\DemoSpace\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
